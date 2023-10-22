@@ -1,16 +1,22 @@
-### Hi there 👋
+🚀 Data Scientist | Machine Learning Enthusiast | Deep Learning Practitioner
 
-<!--
-**kunj0818/kunj0818** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔬 Exploring the world of data one dataset at a time. I'm passionate about using data to solve real-world problems and create meaningful insights. 
 
-Here are some ideas to get you started:
+💻 Currently working on exciting projects in the realm of data science, machine learning, and deep learning. I'm always up for a challenge and eager to learn new things.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌟 Skills:
+- 🔬 Machine Learning | Deep Learning
+- 📊 Data Analysis | Data Visualization
+- 🐍 Python | 🌌 TensorFlow | 🚀 Keras | 📈 Scikit-Learn | 🐼 Pandas | 🚀 MLflow | 🚀 DVC
+- 🌐 Django
+- 💽 SQL 
+- 🌐 Model Deployment on AWS
+
+
+📚 Graduated with a degree in Msc Data Science and Computational Intelligence and constantly expanding my knowledge by taking online courses and staying up to date with the latest developments in the field.
+
+📖 Sharing my insights and findings through blog posts and open-source contributions. Connect with me if you're as enthusiastic about data as I am!
+
+ 📧 kunjp6799@gmail.com | 📷 https://www.linkedin.com/in/kunj-patel-158836171/ 
+
+Let's collaborate, learn, and make a positive impact through data!
